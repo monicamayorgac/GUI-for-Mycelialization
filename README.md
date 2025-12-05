@@ -17,4 +17,4 @@ To run this project, you need Python installed. We recommend using a Conda envir
 * K-Means Clustering
 
 ## Installation
-git clone <YOUR_GITHUB_LINK_HERE>
+git clone https://github.com/monicamayorgac/GUI-for-Mycelialization.git
